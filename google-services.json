@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "637669858543",
+    "project_id": "levels-ecommerce",
+    "storage_bucket": "levels-ecommerce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637669858543:android:8ed330ee95adb347f58f1a",
+        "android_client_info": {
+          "package_name": "com.dalitso.levels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637669858543-h6ct6635hksnfqpibd8r0fd21k5grcm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZgIqVo4Z3vNS4kw-t7ZfR_MOoAnGEt48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637669858543-h6ct6635hksnfqpibd8r0fd21k5grcm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
